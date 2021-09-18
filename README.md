@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- ! I'm Sumanyu </h2>
+ , &nbsp; I'm Sumanyu </h2>
 </br>
 
 <p align="center">
