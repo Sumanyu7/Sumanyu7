@@ -2,10 +2,6 @@
  , &nbsp; I'm Sumanyu </h2>
 </br>
 
-<p align="center">
-<img height="170px" src="https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&animation=default&layout=default&font=default&quote?quoteCategory=motivational"/>
-</p>
-
 <h3>About Me </h3>
 
 - 🤔 &nbsp; I like experimenting with new technologies and building small projects. 
