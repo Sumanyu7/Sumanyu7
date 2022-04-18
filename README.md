@@ -5,7 +5,7 @@
 <h3>About Me </h3>
 
 - 🤔 &nbsp; I like experimenting with new technologies and building small projects. 
-- 🤖 &nbsp; Currently playing around with OpenAI's GPT-3.
+- :art:&nbsp; Working on something exciting - [Palette](https://www.palettes.studio/)
 - 🎓 &nbsp; Graduate of University of Technology Sydney.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Artifical Intelligence.
 
